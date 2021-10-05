@@ -2,7 +2,7 @@
 A real-world business analytics project by Martell Tardy and Noor Bahr Al Uloom completed November 10, 2018.
 
 ## Contents ##
-* **CompleteData:** The combination of the four datasets used for this project into one Excel file.
+* **CompleteDataset.csv:** The combination of the four datasets used for this project into one Excel file.
 * **Final Report:** A PDF document detailing the problem statement, decription, transformation, and analysis of the data, conclusions, and recommendations.
 * **Project Slide Deck:** A 10 minute presentation with audio.
 * **RShiny:** 
