@@ -4,7 +4,7 @@ A real-world business analytics project by Martell Tardy and Noor Bahr Al Uloom 
 ## Contents ##
 * **CompleteDataset:** The combination of the four datasets used for this project into one Excel file.
 * **Releasing a Successful Video Game:** A PDF document detailing the problem statement, decription, transformation, and analysis of the data, conclusions, and recommendations.
-* **BAN888 Capstone Slide Deck:** A 10 minute presentation of the project.
+* **BAN888 Capstone Slide Deck:** A 10 minute presentation of the project. Audio presentation of slide deck available upon request.
 * **RShiny Dashboard:** Contains files necessay to launch interactive R Shiny Dashboard. Installation of shiny library necessary (`install.packages("shiny")`).
 * **models:** Contains R code files for all 6 models used for the project.
 
