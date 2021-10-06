@@ -4,7 +4,7 @@ A real-world business analytics project by Martell Tardy and Noor Bahr Al Uloom 
 ## Contents ##
 * **CompleteDataset:** The combination of the four datasets used for this project into one Excel file.
 * **Releasing a Successful Video Game:** A PDF document detailing the problem statement, decription, transformation, and analysis of the data, conclusions, and recommendations.
-* **BAN888 Capstone Slide Deck:** A 10 minute presentation with audio.
+* **BAN888 Capstone Slide Deck:** A 10 minute presentation of project.
 * **RShiny:** 
 
 # Project Overview #
