@@ -1,3 +1,4 @@
+![](https://github.com/martell-n-tardy/R/blob/main/Analytics%20for%20Business/Valve%20Corporation%20Logo.png)
 # Releasing A Successful Video Game #
 A real-world business analytics project by Martell Tardy and Noor Bahr Al Uloom completed November 10, 2018 while in graduate program, in Data Analytics, at Pennsylvania State University. 
 
