@@ -4,7 +4,7 @@ This repository contains capstone projects, mini-projects and exercises complete
 ## SKILLS
 
 ### USER BEHAVIORAL DATA ANALYSIS
-* **Online Retail Analysis - Customer Segmentation:** 
+* **Online Retail Analysis:** A capstone project using online retail data to perform customer segmentation and optimize customer experience online.
 * **Analyzing User Survey Data:** A capstone project using demographics and web usage data to provide information concerning the demographics and trends of Internet access internationally.
 
 ## In Progress ##
